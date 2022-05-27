@@ -19,7 +19,7 @@ Prior to IITK, I did my B.Sc. in Statistics from [Presidency University, Kolkata
 Feel free to reach out to me via email to brainstorm research ideas.
 
 Research Interests
-====================
+----------------
 - Statistical Learning
 - Computational Statistics
 - MCMC
