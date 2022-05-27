@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+I am an incoming Ph.D. student in the [Department of Statistics](https://stat.osu.edu/) at [The Ohio State University](https://osu.edu/). 
