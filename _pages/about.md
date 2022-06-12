@@ -22,7 +22,7 @@ Research Interests &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbs
 ----------------
 - Statistical Learning
 - Computational Statistics
-- MCMC
+- Markov Chain Monte Carlo
 - Causal Inference
-- TDA
-- FDA
+- Topological Data Analysis
+- Functional Data Analysis
