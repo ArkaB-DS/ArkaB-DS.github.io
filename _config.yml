@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Arkajyoti Bhattacharjee"
   avatar           : "profile.png"
-  bio              : "Incoming Ph.D student at The Ohio State University"
+  bio              : "Incoming Ph.D. student in Statistics"
   location         : "Columbus, OH"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : arkastat98@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
