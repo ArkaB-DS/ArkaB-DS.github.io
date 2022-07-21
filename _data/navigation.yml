@@ -20,7 +20,7 @@ main:
     url: /year-archive/
     
   - title: "Accolades"
-    urd: /awards/
+    url: /awards/
     
   - title: "CV"
     url: /cv/
