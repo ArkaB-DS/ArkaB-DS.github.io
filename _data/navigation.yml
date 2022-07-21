@@ -7,6 +7,9 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
+  - title: "Experiences"
+    url: /experiences
+
   - title: "Projects"
     url: /portfolio/
 
@@ -15,6 +18,9 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
+    
+  - title: "Accolades"
+    urd: /awards/
     
   - title: "CV"
     url: /cv/
