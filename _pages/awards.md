@@ -1,6 +1,6 @@
 ---
 permalink: /awards/
-title: "Accolades"
+title: "Awards and Honors"
 ---
 
 ## 2021
