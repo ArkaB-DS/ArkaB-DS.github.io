@@ -11,7 +11,6 @@ author_profile: true
 ---
 
 - **A Brief Review of Sparse Principal Components Analysis and its Generalization**  [Report](https://github.com/ArkaB-DS/SPCA/blob/main/Multivariate_Project.pdf){: .btn--research} [Slides](https://github.com/ArkaB-DS/SPCA/blob/main/Multivariate_Project__slides_.pdf){: .btn--research} [Codes](https://github.com/ArkaB-DS/SPCA){: .btn--research}   
-_Reviewed SPCA and General Adaptive SPCA as dimension reduction techniques and applied it to simulated and real data._
   <details>
       <summary>Abstract</summary>
 
