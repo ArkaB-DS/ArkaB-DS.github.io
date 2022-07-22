@@ -48,7 +48,7 @@ _Reviewed SPCA and General Adaptive SPCA as dimension reduction techniques and a
   
   </details>
 
-- **Understanding Nonparametric Modal Regression via Kernel Density Estimation**  [Report](https://github.com/ArkaB-DS/NPmodalReg/blob/main/Group7%20Report.pdf){: .btn--research} [Slides](https://github.com/ArkaB-DS/NPmodalReg/blob/main/Robust_Project_I__slides_.pdf){: .btn--research} [Codes](https://github.com/ArkaB-DS/NPmodalReg)){: .btn--research}
+- **Understanding Nonparametric Modal Regression via Kernel Density Estimation**  [Report](https://github.com/ArkaB-DS/NPmodalReg/blob/main/Group7%20Report.pdf){: .btn--research} [Slides](https://github.com/ArkaB-DS/NPmodalReg/blob/main/Robust_Project_I__slides_.pdf){: .btn--research} [Codes](https://github.com/ArkaB-DS/NPmodalReg){: .btn--research}
   <details>
       <summary>Abstract</summary>
 
@@ -72,8 +72,8 @@ _Reviewed SPCA and General Adaptive SPCA as dimension reduction techniques and a
       <summary>Details</summary>
    
   <blockquote>
-     - Performed Exploratory Data Analysis on the Ozone (LA Basin, 1976) dataset to understand the effect of meteorological variables in predicting Ozone concentration. 
-     - Confirmed multicollinearity, heteroscedasticity, normality, and auto-correlation with appropriate tests and took corrective measures for each, developing three parametric predictive models.
-     - Implemented Alternating Conditional Expectation (ACE) algorithm to create a non-parametric model that improved R^2 by 8% and RMSE by 62% with respect to the best of the three parametric models.
+     <li> Performed Exploratory Data Analysis on the Ozone (LA Basin, 1976) dataset to understand the effect of meteorological variables in predicting Ozone concentration. </li>
+     <li> Confirmed multicollinearity, heteroscedasticity, normality, and auto-correlation with appropriate tests and took corrective measures for each, developing three parametric predictive models.</li>
+     <li> Implemented Alternating Conditional Expectation (ACE) algorithm to create a non-parametric model that improved R^2 by 8% and RMSE by 62% with respect to the best of the three parametric models.</li>
   </blockquote>
   </details>
