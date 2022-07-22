@@ -15,7 +15,7 @@ structure.
 _View Project:_ [https://summerofcode.withgoogle.com/projects/5154479671869440](https://summerofcode.withgoogle.com/projects/5154479671869440)
 
 ## Accenture Solutions Pvt. Ltd.
-###** Data Science Analyst Intern**
+### ** Data Science Analyst Intern**
 #### _May – Jul ‘21_
 
 - Developed an AutoML-based tool with GUI, using Python and Dash, that allows users to:
