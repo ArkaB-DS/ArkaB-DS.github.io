@@ -11,7 +11,7 @@ existing or new R functions for nonlinear least-squares.
 - Wrote tests for nlsj, an interim R package developed to improve nls() functionalities, to ensure robust code
 structure.
 
-[View Project](https://summerofcode.withgoogle.com/projects/5154479671869440){: btn--research}
+[View Project](https://summerofcode.withgoogle.com/projects/5154479671869440){: .btn--research}
 
 ## Accenture Solutions Pvt. Ltd.
 ### **Data Science Analyst Intern**
