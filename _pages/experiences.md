@@ -2,7 +2,6 @@
 permalink: /experiences/
 title: "Experiences"
 ---
-
 ## The R Project for Statistical Computing, Google Summer of Code, 2021
 ### **Student Developer**
 #### _Jun – Aug ‘21_
@@ -12,7 +11,7 @@ existing or new R functions for nonlinear least-squares.
 - Wrote tests for nlsj, an interim R package developed to improve nls() functionalities, to ensure robust code
 structure.
 
-_View Project:_ [https://summerofcode.withgoogle.com/projects/5154479671869440](https://summerofcode.withgoogle.com/projects/5154479671869440)
+[View Project](https://summerofcode.withgoogle.com/projects/5154479671869440){: btn--research}
 
 ## Accenture Solutions Pvt. Ltd.
 ### **Data Science Analyst Intern**
