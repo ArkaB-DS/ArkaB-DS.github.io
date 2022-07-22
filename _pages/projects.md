@@ -11,7 +11,7 @@ author_profile: true
 _Reviewed SPCA and General Adaptive SPCA as dimension reduction techniques and applied it to simulated and real data._
   <details>
       <summary>Abstract</summary>
-  </br>
+  
 
   >Principal Component Analysis is a widely studied methodology as it is a useful technique for dimension reduction. In this report, we discuss Sparse Principal Component Analysis (SPCA), which is a modification over PCA. This method is able to resolve the interpretation issue of PCA. Additionally, it provides sparse loadings to the principal components. The main idea of SPCA comes from the relationship between PCA problem and regression analysis. We also discuss GAS-PCA, which is a generalization over SPCA and this method performs better than SPCA, even in finite sample cases. Our report is mainly based on [Zou et al. (2006)](https://doi.org/10.1198/106186006X113430) and its extension 
   [Leng and Wang (2009)](https://doi.org/10.1198/jcgs.2009.0012).
@@ -21,7 +21,7 @@ _Reviewed SPCA and General Adaptive SPCA as dimension reduction techniques and a
 - **Understanding Confidence Intervals in Adaptive Markov Chain Monte Carlo**  [Report][(https://github.com/ArkaB-DS/regressionProjectIITK/blob/main/Report/Project_Report.pdf](https://github.com/ArkaB-DS/MTH598A/blob/main/Report.pdf)){: .btn--research} [Codes](https://github.com/ArkaB-DS/MTH598A){: .btn--research}
   <details>
       <summary>Abstract</summary>
-  </br>
+  
   
   >In this report, we attempt to understand the problems in asymptotic variance estimation for Adaptive Markov Chain Monte Carlo (AMCMC) and the
 role of confidence intervals in providing consistent estimation procedures for
@@ -31,7 +31,7 @@ the asymptotic variance. The report is primarily based on [Atchade´ (2012)](htt
 - **Ozone concentration and meteorology in the LA Basin, 1976 - A Regression Study**  [Report](https://github.com/ArkaB-DS/regressionProjectIITK/blob/main/Report/Project_Report.pdf){: .btn--research} [Slides](https://github.com/ArkaB-DS/regressionProjectIITK/blob/main/Presentation/Project_PPT.pdf){: .btn--research} [Codes](https://github.com/ArkaB-DS/regressionProjectIITK){: .btn--research}
   <details>
       <summary>Details</summary>
-  </br>
+  
   
   >- Performed Exploratory Data Analysis on the Ozone (LA Basin, 1976) dataset to understand the effect of meteorological variables in predicting Ozone concentration.
   >- Confirmed multicollinearity, heteroscedasticity, normality, and auto-correlation with appropriate tests and took corrective measures for each, developing \textbf{three parametric predictive models}.
