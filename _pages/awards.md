@@ -7,7 +7,7 @@ title: "Awards and Honors"
 ---
 - *Academic Excellence Award*, Department of Mathematics and Statistics, IIT, Kanpur
   <details>
-    <summary></summary>
+    <summary>Info</summary>
 
   <blockquote> 
   Awarded to the top 10% of each department based on their CPI, provided CPI > 8.5/10.
@@ -18,7 +18,7 @@ title: "Awards and Honors"
 ---
 - *Academic Excellence Award*, Department of Mathematics and Statistics, IIT, Kanpur
     <details>
-      <summary></summary>
+      <summary>Info</summary>
 
     <blockquote> 
     Awarded to the top 10% of each department based on their CPI, provided CPI > 8.5/10.
