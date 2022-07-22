@@ -22,17 +22,19 @@ _Reviewed SPCA and General Adaptive SPCA as dimension reduction techniques and a
   <details>
       <summary>Abstract</summary>
   
+  <blockquote>
   In this report, we attempt to understand the problems in asymptotic variance estimation for Adaptive Markov Chain Monte Carlo (AMCMC) and the
-role of confidence intervals in providing consistent estimation procedures for the asymptotic variance. The report is primarily based on [Atchade´ (2012)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.765.8899&rep=rep1&type=pdf).
-  
+role of confidence intervals in providing consistent estimation procedures for the asymptotic variance. The report is primarily based on <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.765.8899&rep=rep1&type=pdf">Atchade´ (2012)</a>.
+  </blockquote>
   </details>
   
 - **Ozone concentration and meteorology in the LA Basin, 1976 - A Regression Study**  [Report](https://github.com/ArkaB-DS/regressionProjectIITK/blob/main/Report/Project_Report.pdf){: .btn--research} [Slides](https://github.com/ArkaB-DS/regressionProjectIITK/blob/main/Presentation/Project_PPT.pdf){: .btn--research} [Codes](https://github.com/ArkaB-DS/regressionProjectIITK){: .btn--research}
   <details>
       <summary>Details</summary>
    
+  <blockquote>
      - Performed Exploratory Data Analysis on the Ozone (LA Basin, 1976) dataset to understand the effect of meteorological variables in predicting Ozone concentration. 
      - Confirmed multicollinearity, heteroscedasticity, normality, and auto-correlation with appropriate tests and took corrective measures for each, developing three parametric predictive models.
      - Implemented Alternating Conditional Expectation (ACE) algorithm to create a non-parametric model that improved R^2 by 8% and RMSE by 62% with respect to the best of the three parametric models.
-  
+  </blockquote>
   </details>
