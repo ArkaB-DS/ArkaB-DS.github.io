@@ -4,8 +4,8 @@ title: "Experiences"
 ---
 
 ## The R Project for Statistical Computing, Google Summer of Code, 2021
-### Student Developer
-#### Jun – Aug ‘21
+### **Student Developer**
+#### _Jun – Aug ‘21_
 
 - Developed an R package nlsCompare that compares the accuracy of model characteristics derived using
 existing or new R functions for nonlinear least-squares.
@@ -15,8 +15,8 @@ structure.
 _View Project:_ [https://summerofcode.withgoogle.com/projects/5154479671869440](https://summerofcode.withgoogle.com/projects/5154479671869440)
 
 ## Accenture Solutions Pvt. Ltd.
-### Data Science Analyst Intern
-#### May – Jul ‘21
+###** Data Science Analyst Intern**
+#### _May – Jul ‘21_
 
 - Developed an AutoML-based tool with GUI, using Python and Dash, that allows users to:
   * use multiple data pre-processing methods and select among classical and state-of-the-art algorithms;
