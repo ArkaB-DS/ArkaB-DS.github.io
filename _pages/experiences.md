@@ -1,6 +1,6 @@
 ---
 permalink: /experiences/
-title: "Experiences"
+title: "Professional Experiences"
 ---
 ## The R Project for Statistical Computing, Google Summer of Code, 2021
 ### **Student Developer**
