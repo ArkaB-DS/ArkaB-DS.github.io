@@ -32,9 +32,9 @@ the asymptotic variance. The report is primarily based on [Atchade´ (2012)](htt
  
   <blockquote>
     
-    - Performed Exploratory Data Analysis on the Ozone (LA Basin, 1976) dataset to understand the effect of meteorological variables in predicting Ozone concentration.
-  - Confirmed multicollinearity, heteroscedasticity, normality, and auto-correlation with appropriate tests and took corrective measures for each, developing \textbf{three parametric predictive models}.
-  - Implemented Alternating Conditional Expectation (ACE) algorithm to create a non-parametric model that improved R^2 by 8% and RMSE by 62% with respect to the best of the three parametric models.
+     - Performed Exploratory Data Analysis on the Ozone (LA Basin, 1976) dataset to understand the effect of meteorological variables in predicting Ozone concentration.
+     - Confirmed multicollinearity, heteroscedasticity, normality, and auto-correlation with appropriate tests and took corrective measures for each, developing \textbf{three parametric predictive models}.
+     - Implemented Alternating Conditional Expectation (ACE) algorithm to create a non-parametric model that improved R^2 by 8% and RMSE by 62% with respect to the best of the three parametric models.
   
   </blockquote>
   </details>
