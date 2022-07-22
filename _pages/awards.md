@@ -5,12 +5,12 @@ title: "Awards and Honors"
 
 ### 2021
 ---
-- *Academic Excellence Award*, Department of Mathematics and Statistics, Indian Institute of Technology, Kanpur
+- *Academic Excellence Award*, Department of Mathematics and Statistics, IIT, Kanpur
 >Awarded to the top 10% of each department based on their CPI, provided CPI > 8.5/10.
 
 ### 2020
 ---
-- *Academic Excellence Award*, Department of Mathematics and Statistics, Indian Institute of Technology, Kanpur
+- *Academic Excellence Award*, Department of Mathematics and Statistics, IIT, Kanpur
 >Awarded to the top 10% of each department based on their CPI, provided CPI > 8.5/10.
 
 ### 2019
