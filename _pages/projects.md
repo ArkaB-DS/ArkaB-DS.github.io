@@ -18,13 +18,24 @@ _Reviewed SPCA and General Adaptive SPCA as dimension reduction techniques and a
   
   </details>
   
+- **Understanding Nonparametric Modal Regression via Kernel Density Estimation**  [Report](https://github.com/ArkaB-DS/NPmodalReg/blob/main/Group7%20Report.pdf){: .btn--research} [Slides](https://github.com/ArkaB-DS/NPmodalReg/blob/main/Robust_Project_I__slides_.pdf){: .btn--research} [Codes]([https://github.com/ArkaB-DS/SPCA](https://github.com/ArkaB-DS/NPmodalReg)){: .btn--research}
+  <details>
+      <summary>Abstract</summary>
+
+  <blockquote>
+    In this report we review non-parametric Modal Regression using Kernel Density Estimator. Instead of using conditional mean, Modal Regression uses conditional mode to summarize the relationship between the response and the explanatory variables. We describe the idea of Modal Regression and include a brief discussion regarding the superiority of Multi-modal regression over the Uni-modal case. The consistency properties of the proposed estimator and the idea of Confidence Sets have been reviewed. This report also includes an application of Prediction Sets in case of Bandwidth selection. Certain generalizations and extensions are also discussed. The report is primarily based on <a href="https://projecteuclid.org/journals/annals-of-statistics/volume-44/issue-2/Nonparametric-modal-regression/10.1214/15-AOS1373.pdf">Chen, Y. C., Genovese, C. R., Tibshirani, R. J., & Wasserman, L. (2016). Nonparametric modal regression. The Annals of Statistics, 44(2), 489-514</a>.
+  </blockquote>
+  
+  </details>
+  
+  
+  
 - **Understanding Confidence Intervals in Adaptive Markov Chain Monte Carlo**  [Report](https://github.com/ArkaB-DS/MTH598A/blob/main/Report.pdf){: .btn--research} [Codes](https://github.com/ArkaB-DS/MTH598A){: .btn--research}
   <details>
       <summary>Abstract</summary>
   
   <blockquote>
-  In this report, we attempt to understand the problems in asymptotic variance estimation for Adaptive Markov Chain Monte Carlo (AMCMC) and the
-role of confidence intervals in providing consistent estimation procedures for the asymptotic variance. The report is primarily based on <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.765.8899&rep=rep1&type=pdf">Atchade´ (2012)</a>.
+  In this report, we attempt to understand the problems in asymptotic variance estimation for Adaptive Markov Chain Monte Carlo (AMCMC) and the role of confidence intervals in providing consistent estimation procedures for the asymptotic variance. The report is primarily based on <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.765.8899&rep=rep1&type=pdf">Atchade´ (2012)</a>.
   </blockquote>
   </details>
   
