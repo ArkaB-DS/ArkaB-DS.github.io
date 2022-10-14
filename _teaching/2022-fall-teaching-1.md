@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "STAT 2480: Statistics for the Life Sciences (Fall '22)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
