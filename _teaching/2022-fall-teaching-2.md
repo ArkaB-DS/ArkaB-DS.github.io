@@ -2,7 +2,7 @@
 title: "STAT 3470: Introduction to Probability and Statistics for Engineers (Fall '22)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-fall-teaching-1
+permalink: /teaching/2022-fall-teaching-2
 venue: "The Ohio State University, Department of Statistics"
 date: 2022-08-16
 location: "Columbus, USA"
