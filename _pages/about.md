@@ -21,6 +21,3 @@ Research Interests <!--&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; 
 - Statistical Learning
 - Computational Statistics
 - Markov Chain Monte Carlo
-<!---- Causal Inference
-- Topological Data Analysis
-- Functional Data Analysis--->
