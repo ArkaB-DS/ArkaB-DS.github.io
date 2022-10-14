@@ -10,11 +10,4 @@ location: "Columbus, USA"
 
 <!--This is a description of a teaching experience. You can use markdown like any other post.-->
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Responsible for grading and tutoring three sections of the course consisting a total of about 370 students.
