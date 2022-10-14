@@ -7,7 +7,6 @@ title: "Leadership"
 ### **Student Nominee**
 #### _Sept '21 - Aug '22_
 - Represented the academic interests of the UG students for decision-making pertaining to academic rules and curriculum. 
-- Counseled and represented students expelled due to weak academic performance or under academic probation.
 
 ## [STAMATICS](https://stamatics.github.io/), Department of Mathematics and Statistics, IIT Kanpur
 ### **Coordinator**
