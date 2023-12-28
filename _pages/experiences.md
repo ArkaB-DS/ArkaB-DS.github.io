@@ -1,7 +1,14 @@
 ---
 permalink: /experiences/
-title: "Professional Experiences"
+title: "Experiences"
 ---
+## Statistical Consulting Service, The Ohio State University
+### **Graduate Student Consultant**
+#### _May – Jul ‘23_
+
+- Consulted on research projects for clients coming from Computer Science, Speech and Hearing Science, Geography, Health and Rehabilitation Science, and Anthropology departments.
+
+
 ## The R Project for Statistical Computing, Google Summer of Code, 2021
 ### **Student Developer**
 #### _Jun – Aug ‘21_
@@ -19,6 +26,6 @@ structure.
 
 - Developed an AutoML-based tool with GUI, using Python and Dash, that allows users to:
   * use multiple data pre-processing methods and select among classical and state-of-the-art algorithms;
-  * use model optimization and model blending, interactively visualize model diagnostics and make
+  * use model optimization and model blending, interactively visualize model diagnostics, and make
 predictions based on the best-optimized model.
 
