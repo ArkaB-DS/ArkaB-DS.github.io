@@ -63,8 +63,6 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
-instagram:
-  username               : @aj.b_22
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -101,7 +99,7 @@ author:
   github           : "ArkaB-DS"
   google_plus      :
   keybase          :
-  Instagram        : "@aj.b_22"
+  instagram        : "@aj.b_22"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "arkajyoti-aj"
