@@ -7,6 +7,18 @@ author_profile: true
 
 ## Course Projects
 
+### tOSU
+---
+
+- **Slice Sampling: Theory and Methods, with Applications in R**  [Report](https://github.com/ArkaB-DS/sliceSampling_7730/blob/main/sliceSamplingReport.pdf){: .btn--research} [Slides](https://github.com/ArkaB-DS/sliceSampling_7730/blob/main/sliceSamplingSlides.pdf){: .btn--research} [Codes]([https://github.com/ArkaB-DS/SPCA](https://github.com/ArkaB-DS/sliceSampling_7730)){: .btn--research}   
+
+- **Comparative Analysis of Dimensionality Reduction Techniques
+for Image Recognition (in R)**  [Report](https://github.com/ArkaB-DS/STAT7730eigenfaces/blob/main/STAT7730.pdf){: .btn--research} [Codes](https://github.com/ArkaB-DS/STAT7730eigenfaces){: .btn--research}
+
+- **Effect of economic advancement on deforestation**  [Report](https://github.com/ArkaB-DS/STAT6950Project/blob/main/STAT6950.pdf){: .btn--research} [Codes](https://github.com/ArkaB-DS/STAT6950Project){: .btn--research}  
+  
+
+
 ### IIT Kanpur
 ---
 
