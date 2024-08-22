@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a driven 2nd-year Ph.D. student at the [Department of Statistics](https://stat.osu.edu/) in [The Ohio State University](https://osu.edu/). I am passionately delving into the intriguing realms of Causal Inference, Computational Statistics, and Statistical Learning.  I'm on a quest to contribute novel insights to statistical literature while eagerly seeking opportunities to apply my expertise in consulting, data analysis, and data science.
+Welcome! I am a driven 3rd-year Ph.D. student at the [Department of Statistics](https://stat.osu.edu/) in [The Ohio State University](https://osu.edu/). I am passionately delving into the intriguing realms of Causal Inference, Computational Statistics, and Statistical Learning.  I'm on a quest to contribute novel insights to statistical literature while eagerly seeking opportunities to apply my expertise in consulting, data analysis, and data science.
 
 My academic journey began with a B.Sc. in Statistics from Presidency University, Kolkata, laying the groundwork for my fervent pursuit. Subsequently, I earned my Master's in Statistics at the esteemed [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) (IITK). My M.Sc. project, under the mentorship of [Prof. Dootika Vats](https://dvats.github.io/), explored variance estimation in Adaptive Markov Chain Monte Carlo, unveiling my passion for pioneering statistical methodologies.
 
