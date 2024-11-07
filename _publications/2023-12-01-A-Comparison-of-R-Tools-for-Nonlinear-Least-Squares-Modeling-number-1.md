@@ -9,6 +9,5 @@ paperurl: 'https://journal.r-project.org/articles/RJ-2023-091/RJ-2023-091.pdf'
 citation: 'Nash, J. C., & Bhattacharjee, A. (2023). A Comparison of R Tools for Nonlinear Least Squares Modeling. R Journal, 15(4).'
 ---
 
-Read the article here: [](https://journal.r-project.org/articles/RJ-2023-091/RJ-2023-091.pdf)
 
 <!--Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).--->
