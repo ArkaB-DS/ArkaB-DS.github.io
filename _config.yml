@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arkajyoti Bhattacharjee"
 title_separator          : "-"
 name                     : &name "Arkajyoti Bhattacharjee"
-description              : &description "personal description"
+description              : &description "Ph.D. candidate in Statistics at The Ohio State University working on differential privacy, nonparametric inference, and generative models."
 url                      : https://ArkaB-DS.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ArkaB-DS/ArkaB-DS.github.io"
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : ArkajyotiB_AJ
 facebook:
-  username               : arka.bhattacharjee.1612
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Arkajyoti Bhattacharjee"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in Statistics"
+  bio              : "Ph.D. Candidate in Statistics"
   location         : "Columbus, OH"
-  employer         :
+  employer         : "The Ohio State University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BFszrj0AAAAJ&hl=en"
   email            : bhattacharjee.57@osu.edu
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
