@@ -20,7 +20,7 @@ Outside of research, I spend most of my free time strength training.
 
 ### News
 - **May 2027** — Received the Ransom and Marian Whitney Award for Research, OSU Department of Statistics.
-- **Oct 2026** — Recognized in the ASA Columbus Chapter Scientific Communication Video Contest ([video](https://youtu.be/q0ecam_hOME)).
+- **Oct 2026** — Won the Graduate category of the ASA Columbus Chapter Scientific Communication Video Contest ([video](https://youtu.be/q0ecam_hOME)).
 - **Aug 2026** — One of 6 finalists in the ASA Nonparametric Statistics Section Student Paper Competition; presented at JSM 2026.
 - **Aug 2026** — Elected president of the (Bio)Statistics Graduate Student Association.
 - **Summer 2026** — Summer Associate at JPMorgan Chase; passed the Ph.D. candidacy exam.
