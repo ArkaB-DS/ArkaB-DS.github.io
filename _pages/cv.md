@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-*Last updated on August 16, 2025.*
+*Last updated on October 20, 2026.*
 
-<iframe src="/files/cv_g.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-<!-- PDF file of my CV is available [here](/files/CV_27_09_24.pdf). -->
+[Download CV (PDF)](/files/CV_Oct20.pdf){: .btn--research}
+
+<iframe src="/files/CV_Oct20.pdf" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
