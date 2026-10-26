@@ -1,5 +1,5 @@
 ---
-title: "STAT 4202: Introduction to Mathematical Statistics II (Fall '24)"
+title: "STAT 4202: Introduction to Mathematical Statistics II (Fall '24) — Instructor of Record"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-7
@@ -8,6 +8,4 @@ date: 2024-08-21
 location: "Columbus, USA"
 ---
 
-<!--This is a description of a teaching experience. You can use markdown like any other post.-->
-
-- Responsible for lecturing and holding office hours, taking exams and grading them, and managing recitations for a class of about 100 students.
+- Instructor of record: delivered lectures, wrote homework and exams, held office hours, and managed recitations for a class of about 100 students.
