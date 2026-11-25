@@ -41,4 +41,17 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<!-- Site restyle: Inter font, light/dark theme (dark by default) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/custom.css">
+<script>
+  (function () {
+    var theme = 'dark';
+    try { theme = localStorage.getItem('theme') || 'dark'; } catch (e) {}
+    document.documentElement.setAttribute('data-theme', theme);
+  })();
+</script>
+
 <!-- end custom head snippets -->
