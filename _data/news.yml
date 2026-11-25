@@ -1,0 +1,44 @@
+# News items, newest first. The home page shows the first 5; /news/ shows all.
+# To add news, add a new entry at the top. "links" is optional.
+
+- date: "Nov 2026"
+  text: "Awarded the OSU Presidential Fellowship, the Graduate School's most prestigious award for doctoral students in the final phase of dissertation research."
+  links:
+    - label: "News"
+      url: "https://stat.osu.edu/news/statistics-phd-student-aj-bhattacharjee-receives-presidential-fellowship"
+
+- date: "Oct 2026"
+  text: "Received the Ransom and Marian Whitney Award for Research, OSU Department of Statistics."
+
+- date: "Oct 2026"
+  text: "Won the Graduate category of the ASA Columbus Chapter Scientific Communication Video Contest."
+  links:
+    - label: "Video"
+      url: "https://youtu.be/q0ecam_hOME"
+    - label: "News"
+      url: "https://stat.osu.edu/news/osu-students-win-asa-columbus-chapters-2026-scientific-communication-video-contest"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/posts/thanks-to-all-who-came-out-to-our-2026-fall-ugcPost-7529244383909400576-nZVQ"
+
+- date: "Aug 2026"
+  text: "One of 6 finalists in the ASA Nonparametric Statistics Section Student Paper Competition; presented at JSM 2026."
+  links:
+    - label: "Program"
+      url: "https://ww2.amstat.org/meetings/jsm/2026/onlineprogram/person.cfm?id=18060"
+
+- date: "Aug 2026"
+  text: "Elected president of the (Bio)Statistics Graduate Student Association."
+
+- date: "Summer 2026"
+  text: "Summer Associate at JPMorgan Chase; passed the Ph.D. candidacy exam."
+
+- date: "May 2026"
+  text: "Won the People's Vote Poster Award at the ASA Midwest Regional Conference."
+
+- date: "Apr 2026"
+  text: "Won 1st Place Poster at the Annual Joint Biostatistics Symposium."
+  links:
+    - label: "News"
+      url: "https://stat.osu.edu/news/phd-student-places-first-poster-awards-annual-biostatistics-symposium"
+    - label: "CPH News"
+      url: "https://cph.osu.edu/news/announcements/phd-students-recognized-joint-biostatistics-symposium"
