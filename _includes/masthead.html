@@ -18,6 +18,18 @@
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      <button class="theme-toggle" type="button" aria-label="Switch between light and dark mode" title="Switch between light and dark mode">
+        <i class="fas fa-sun icon-sun" aria-hidden="true"></i>
+        <i class="fas fa-moon icon-moon" aria-hidden="true"></i>
+      </button>
+      <script>
+        document.querySelector('.theme-toggle').addEventListener('click', function () {
+          var root = document.documentElement;
+          var theme = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+          root.setAttribute('data-theme', theme);
+          try { localStorage.setItem('theme', theme); } catch (e) {}
+        });
+      </script>
     </div>
   </div>
 </div>
