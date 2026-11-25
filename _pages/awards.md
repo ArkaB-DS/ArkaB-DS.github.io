@@ -18,7 +18,7 @@ title: "Honors and Awards"
 ---
 - *Ransom and Marian Whitney Award for Research*, Department of Statistics, The Ohio State University  [About the Award](https://stat.osu.edu/about/department-awards){: .btn--research}
 
-- *Winner (Graduate Category), Scientific Communication Video Contest*, ASA Columbus Chapter  [Video](https://youtu.be/q0ecam_hOME){: .btn--research} [Department News](https://stat.osu.edu/news/osu-students-win-asa-columbus-chapters-2026-scientific-communication-video-contest){: .btn--research} [ASA Columbus](https://sites.google.com/view/cbus-asa/more-info/video-contest){: .btn--research}
+- *Winner (Graduate Category), Scientific Communication Video Contest*, ASA Columbus Chapter  [Video](https://youtu.be/q0ecam_hOME){: .btn--research} [Department News](https://stat.osu.edu/news/osu-students-win-asa-columbus-chapters-2026-scientific-communication-video-contest){: .btn--research} [ASA Columbus](https://sites.google.com/view/cbus-asa/more-info/video-contest){: .btn--research} [LinkedIn](https://www.linkedin.com/posts/thanks-to-all-who-came-out-to-our-2026-fall-ugcPost-7529244383909400576-nZVQ){: .btn--research}
 
 - *Finalist, Student Paper Competition*, ASA Section on Nonparametric Statistics  [JSM 2026 Program](https://ww2.amstat.org/meetings/jsm/2026/onlineprogram/person.cfm?id=18060){: .btn--research}
   <details>
@@ -40,7 +40,7 @@ title: "Honors and Awards"
 
 - *Travel Award*, 2026 ASA Midwest Regional Conference in Statistics and Data Science
 
-- *1st Place Poster Award*, 2026 Annual Joint Biostatistics Symposium  [Department News](https://stat.osu.edu/news/phd-student-places-first-poster-awards-annual-biostatistics-symposium){: .btn--research}
+- *1st Place Poster Award*, 2026 Annual Joint Biostatistics Symposium  [Department News](https://stat.osu.edu/news/phd-student-places-first-poster-awards-annual-biostatistics-symposium){: .btn--research} [CPH News](https://cph.osu.edu/news/announcements/phd-students-recognized-joint-biostatistics-symposium){: .btn--research}
   <details>
     <summary>Info</summary>
 
