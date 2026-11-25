@@ -9,6 +9,12 @@ title: "Leadership and Service"
 - Elected president representing statistics and biostatistics graduate students.
 - Lead qualifying-exam information sessions, faculty and staff award voting, and student-focused departmental initiatives.
 
+## Sloan Center for Systemic Change (SCSC), The Ohio State University
+### **Member, Graduate Advisory Group**
+#### _Spring '25 – Autumn '25_
+- Selected to advise on the STEM graduate student experience, including culture, climate, support, and well-being.
+- Met monthly with other graduate students to identify challenges and propose solutions.
+
 ## Science Day, Department of Statistics, The Ohio State University
 ### **Judge, Statistical Analysis Award**
 #### _Apr '24_
