@@ -9,4 +9,4 @@ location: "Columbus, OH"
 link: "https://youtu.be/q0ecam_hOME"
 ---
 
-[Department News](https://stat.osu.edu/news/osu-students-win-asa-columbus-chapters-2026-scientific-communication-video-contest) · [ASA Columbus](https://sites.google.com/view/cbus-asa/more-info/video-contest) · [LinkedIn](https://www.linkedin.com/posts/thanks-to-all-who-came-out-to-our-2026-fall-ugcPost-7529244383909400576-nZVQ)
+[Video](https://youtu.be/q0ecam_hOME) · [Department News](https://stat.osu.edu/news/osu-students-win-asa-columbus-chapters-2026-scientific-communication-video-contest) · [ASA Columbus](https://sites.google.com/view/cbus-asa/more-info/video-contest) · [LinkedIn](https://www.linkedin.com/posts/thanks-to-all-who-came-out-to-our-2026-fall-ugcPost-7529244383909400576-nZVQ)
