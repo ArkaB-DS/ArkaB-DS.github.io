@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Arkajyoti (AJ) Bhattacharjee**, a Ph.D. candidate in Statistics at [The Ohio State University](https://stat.osu.edu/), advised by Prof. [Arnab Auddy](https://arnab-auddy.github.io/).
+I'm **Arkajyoti (AJ) Bhattacharjee**, a Ph.D. candidate in Statistics and a Presidential Fellow at [The Ohio State University](https://stat.osu.edu/), advised by Prof. [Arnab Auddy](https://arnab-auddy.github.io/).
+
+**I am on the job market** for full-time positions starting after my Ph.D. (expected August 2027), as a research or applied scientist in machine learning and statistics, a data scientist or statistician, or a quantitative researcher in finance and risk modeling. My [CV](/files/CV.pdf) has the details, and I'd be glad to hear from you by [email](mailto:bhattacharjee.57@osu.edu).
 
 My research develops statistical inference for unsupervised learning and generative models, with a focus on privacy, comparison, and memorization. Much of my work centers on density modes, the local peaks of a probability density, which represent characteristic patterns in data, such as the distinct gene-activity profiles of different cancer types. I study how to estimate all of these modes while formally protecting the privacy of every individual record, and how to test whether the modes of two populations are in the same locations even when the share of observations near each mode differs. Privacy concerns also arise in generative models: a model trained on patient scans can produce a synthetic image that reproduces a real patient's scan. I develop tests that distinguish this memorization from the natural similarity between independent individuals, along with theory that explains when memorization occurs. For each of these problems, I prove theoretical guarantees and evaluate the methods on real data.
 
