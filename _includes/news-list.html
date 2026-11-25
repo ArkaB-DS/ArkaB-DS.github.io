@@ -1,0 +1,10 @@
+{% comment %}
+  News list built from _data/news.yml.
+  Usage: include news-list.html with limit=5 to show the 5 newest; omit limit to show all.
+{% endcomment %}
+{% assign news_limit = include.limit | default: site.data.news.size %}
+<ul class="news-list">
+{% for item in site.data.news limit: news_limit %}
+  <li><strong>{{ item.date }}</strong> — {{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% for link in item.links %} <a class="btn--research" href="{{ link.url }}">{{ link.label }}</a>{% endfor %}</li>
+{% endfor %}
+</ul>
