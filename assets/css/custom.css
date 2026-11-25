@@ -1,0 +1,140 @@
+/* ==========================================================================
+   Site restyle: light and dark themes (dark is the default)
+   Theme is set on <html data-theme="..."> by the script in _includes/head/custom.html
+   ========================================================================== */
+
+:root {
+  --bg: #ffffff;
+  --bg-soft: #f6f8fb;
+  --text: #1f2933;
+  --heading: #0f1720;
+  --muted: #5b6573;
+  --border: #e4e8ee;
+  --accent: #1d4e89;
+  --accent-soft: #eaf1fb;
+  --accent-border: #cddcf0;
+  --accent-contrast: #ffffff;
+  --masthead-bg: rgba(255, 255, 255, 0.9);
+  --shadow: rgba(15, 23, 32, 0.08);
+}
+
+:root[data-theme="dark"] {
+  --bg: #0f141a;
+  --bg-soft: #151b23;
+  --text: #d5dce5;
+  --heading: #eef2f6;
+  --muted: #93a0b0;
+  --border: #26303c;
+  --accent: #8ab4f8;
+  --accent-soft: rgba(138, 180, 248, 0.12);
+  --accent-border: rgba(138, 180, 248, 0.3);
+  --accent-contrast: #0f141a;
+  --masthead-bg: rgba(15, 20, 26, 0.88);
+  --shadow: rgba(0, 0, 0, 0.35);
+}
+
+/* Base */
+html, body { background: var(--bg) !important; color: var(--text) !important; }
+html, body, .masthead, .page__footer, .list__item .archive__item {
+  transition: background-color .3s ease, color .3s ease;
+}
+body, input, button, .page__content, .archive, .author__content, .masthead, .greedy-nav,
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif !important;
+}
+.page__content, .archive, .page__content p, .archive__item-excerpt, li { color: var(--text) !important; }
+.page__meta, .archive .page__meta { color: var(--muted) !important; }
+strong { color: var(--heading); }
+
+/* Headings */
+h1, h2, h3, h4, .page__title, .archive__item-title {
+  color: var(--heading) !important; font-weight: 600 !important; letter-spacing: -0.01em;
+}
+.page__content h3, .archive h3 { border-bottom: 1px solid var(--border) !important; padding-bottom: .3em; }
+.page__content hr, .archive hr { border-color: var(--border) !important; }
+
+/* Links: accent color, underline only on hover */
+a, a:visited {
+  color: var(--accent) !important; text-decoration: none !important;
+  transition: color .15s ease, background-color .15s ease, box-shadow .15s ease, transform .15s ease;
+}
+.page__content a:hover, .archive a:hover { text-decoration: underline !important; text-underline-offset: 3px; }
+
+/* Top bar */
+.masthead {
+  background: var(--masthead-bg) !important; backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border) !important; position: sticky; top: 0; z-index: 20;
+}
+.masthead__inner-wrap, .greedy-nav { background: transparent !important; }
+.greedy-nav a, .greedy-nav a:visited { color: var(--muted) !important; font-weight: 500; }
+.greedy-nav .masthead__menu-item--lg a { color: var(--heading) !important; font-weight: 700 !important; }
+.greedy-nav a:hover { color: var(--accent) !important; }
+.greedy-nav button { background: var(--accent) !important; border-radius: 6px; }
+.greedy-nav .hidden-links { background: var(--bg-soft) !important; border-color: var(--border) !important; }
+
+/* Theme toggle, top right (left of the menu button) */
+.masthead__menu { position: relative; padding-right: 52px; }
+.theme-toggle {
+  position: absolute; right: 0; top: 50%; transform: translateY(-50%);
+  width: 38px; height: 38px; border-radius: 50%;
+  border: 1px solid var(--border); background: var(--bg-soft); color: var(--text);
+  font-size: 16px; line-height: 1; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  transition: transform .2s ease, background-color .3s ease;
+}
+.theme-toggle:hover { transform: translateY(-50%) rotate(20deg) scale(1.05); }
+.theme-toggle .icon-sun { display: none; }
+:root[data-theme="dark"] .theme-toggle .icon-sun { display: inline; }
+:root[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+
+/* Sidebar */
+.author__avatar img { border: 3px solid var(--border) !important; box-shadow: 0 4px 14px var(--shadow); }
+.author__name { color: var(--heading) !important; }
+.author__bio, .author__urls li { color: var(--muted) !important; }
+.author__urls i, .author__urls .fa, .author__urls .fab, .author__urls .fas { color: var(--muted) !important; }
+.author__urls a:hover i { color: var(--accent) !important; }
+.author__urls { background: var(--bg) !important; border-color: var(--border) !important; }
+
+/* Buttons for supporting links */
+a.btn--research,
+.archive__item p a {
+  display: inline-block; font-size: .78em !important; font-weight: 500; line-height: 1.2;
+  padding: .3em .75em; margin: .15em .15em .15em 0; border-radius: 999px;
+  background: var(--accent-soft) !important; color: var(--accent) !important;
+  border: 1px solid var(--accent-border) !important; text-decoration: none !important;
+}
+a.btn--research:hover,
+.archive__item p a:hover {
+  background: var(--accent) !important; color: var(--accent-contrast) !important;
+  transform: translateY(-1px); box-shadow: 0 3px 10px var(--shadow); text-decoration: none !important;
+}
+
+/* Details and quotes */
+details summary { color: var(--muted) !important; cursor: pointer; font-size: .9em; }
+blockquote {
+  border-left: 3px solid var(--accent) !important; background: var(--bg-soft) !important;
+  color: var(--text) !important; padding: .5em 1em !important;
+}
+
+/* List pages (talks, publications, teaching): entries as cards */
+.list__item .archive__item {
+  padding: .9em 1.1em .6em; margin-bottom: 1em; border: 1px solid var(--border);
+  border-radius: 10px; background: var(--bg-soft); transition: box-shadow .2s ease, transform .2s ease;
+}
+.list__item .archive__item .archive__item-title { margin-top: 0 !important; }
+.list__item .archive__item:hover { box-shadow: 0 6px 20px var(--shadow); transform: translateY(-2px); }
+
+/* Fade in on load */
+@keyframes fadeUp { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+.page, .archive, .sidebar { animation: fadeUp .45s ease both; }
+@media (prefers-reduced-motion: reduce) {
+  .page, .archive, .sidebar { animation: none; }
+  .list__item .archive__item:hover, a.btn--research:hover { transform: none; }
+}
+
+/* Footer */
+.page__footer {
+  background: var(--bg-soft) !important; color: var(--muted) !important;
+  border-top: 1px solid var(--border) !important;
+}
+.page__footer a { color: var(--accent) !important; }
