@@ -19,14 +19,14 @@ Outside of research, I spend most of my free time strength training.
 ---
 
 ### News
-- **Nov 2026** — Awarded the OSU Presidential Fellowship, the Graduate School's most prestigious award for doctoral students in the final phase of dissertation research ([news](https://stat.osu.edu/news/statistics-phd-student-aj-bhattacharjee-receives-presidential-fellowship)).
+- **Nov 2026** — Awarded the OSU Presidential Fellowship, the Graduate School's most prestigious award for doctoral students in the final phase of dissertation research. [News](https://stat.osu.edu/news/statistics-phd-student-aj-bhattacharjee-receives-presidential-fellowship){: .btn--research}
 - **Oct 2026** — Received the Ransom and Marian Whitney Award for Research, OSU Department of Statistics.
-- **Oct 2026** — Won the Graduate category of the ASA Columbus Chapter Scientific Communication Video Contest ([video](https://youtu.be/q0ecam_hOME), [news](https://stat.osu.edu/news/osu-students-win-asa-columbus-chapters-2026-scientific-communication-video-contest), [LinkedIn](https://www.linkedin.com/posts/thanks-to-all-who-came-out-to-our-2026-fall-ugcPost-7529244383909400576-nZVQ)).
-- **Aug 2026** — One of 6 finalists in the ASA Nonparametric Statistics Section Student Paper Competition; presented at JSM 2026 ([program](https://ww2.amstat.org/meetings/jsm/2026/onlineprogram/person.cfm?id=18060)).
+- **Oct 2026** — Won the Graduate category of the ASA Columbus Chapter Scientific Communication Video Contest. [Video](https://youtu.be/q0ecam_hOME){: .btn--research} [News](https://stat.osu.edu/news/osu-students-win-asa-columbus-chapters-2026-scientific-communication-video-contest){: .btn--research} [LinkedIn](https://www.linkedin.com/posts/thanks-to-all-who-came-out-to-our-2026-fall-ugcPost-7529244383909400576-nZVQ){: .btn--research}
+- **Aug 2026** — One of 6 finalists in the ASA Nonparametric Statistics Section Student Paper Competition; presented at JSM 2026. [Program](https://ww2.amstat.org/meetings/jsm/2026/onlineprogram/person.cfm?id=18060){: .btn--research}
 - **Aug 2026** — Elected president of the (Bio)Statistics Graduate Student Association.
 - **Summer 2026** — Summer Associate at JPMorgan Chase; passed the Ph.D. candidacy exam.
 - **May 2026** — Won the People's Vote Poster Award at the ASA Midwest Regional Conference.
-- **Apr 2026** — Won 1st Place Poster at the Annual Joint Biostatistics Symposium ([news](https://stat.osu.edu/news/phd-student-places-first-poster-awards-annual-biostatistics-symposium), [CPH news](https://cph.osu.edu/news/announcements/phd-students-recognized-joint-biostatistics-symposium)).
+- **Apr 2026** — Won 1st Place Poster at the Annual Joint Biostatistics Symposium. [News](https://stat.osu.edu/news/phd-student-places-first-poster-awards-annual-biostatistics-symposium){: .btn--research} [CPH News](https://cph.osu.edu/news/announcements/phd-students-recognized-joint-biostatistics-symposium){: .btn--research}
 
 ### Research interests
 - Differential privacy
