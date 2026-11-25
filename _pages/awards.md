@@ -6,13 +6,6 @@ title: "Honors and Awards"
 ### 2027
 ---
 - *Presidential Fellowship*, Graduate School, The Ohio State University  [Department News](https://stat.osu.edu/news/statistics-phd-student-aj-bhattacharjee-receives-presidential-fellowship){: .btn--research} [About the Fellowship](https://gradsch.osu.edu/presidential-fellowship){: .btn--research}
-  <details>
-    <summary>Info</summary>
-
-  <blockquote>
-  The Graduate School's most prestigious award for doctoral students in the final phase of dissertation research.
-  </blockquote>
-  </details>
 
 ### 2026
 ---
