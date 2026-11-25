@@ -119,6 +119,12 @@ a.btn--research:hover,
   transform: translateY(-1px); box-shadow: 0 3px 10px var(--shadow); text-decoration: none !important;
 }
 
+/* Tables */
+table, th, td { border-color: var(--border) !important; }
+thead, th { background: var(--bg-soft) !important; color: var(--heading) !important; font-weight: 600; }
+td { color: var(--text) !important; background: transparent !important; }
+tbody tr:hover td { background: var(--accent-soft) !important; }
+
 /* Details and quotes */
 details summary { color: var(--muted) !important; cursor: pointer; font-size: .9em; }
 blockquote {
