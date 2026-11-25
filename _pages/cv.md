@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-*Last updated on October 20, 2026.*
+*Last updated on November 25, 2026.*
 
-[Download CV (PDF)](/files/CV_Oct20.pdf){: .btn--research}
+[Download CV (PDF)](/files/CV.pdf){: .btn--research}
 
-<iframe src="/files/CV_Oct20.pdf" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/CV.pdf" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
