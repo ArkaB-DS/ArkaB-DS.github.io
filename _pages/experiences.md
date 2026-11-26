@@ -7,7 +7,7 @@ title: "Experiences"
 ### **CCB Risk Modeling Summer Associate, Data Analytics & AI Research**
 #### _Jun – Aug '26 · Wilmington, DE_
 
-- Developed PRIMO, an account-level machine-learning framework for predicting highly zero-inflated, right-skewed revolving balances using nearly 10M observations and 2K+ engineered features, supporting downstream interest-income estimation and credit-line decisioning.
+- Developed PRIMO, an account-level machine-learning framework for predicting highly zero-inflated, right-skewed revolving balances using nearly 10M accounts and 2K+ engineered features, supporting downstream interest-income estimation and credit-line decisioning.
 - Built an Optuna-based Bayesian feature-selection pipeline with Tweedie XGBoost, gain and SHAP importance, and correlation filtering, reducing the feature space from 2K+ to 100 features.
 - Developed nested XGBoost models spanning a squared-error baseline and distribution-aware Tweedie and hurdle-Gamma objectives; tuned each model family separately with 30-trial Bayesian hyperparameter optimization and implemented corresponding PyTorch feature-token Transformers.
 - Conducted multi-vintage out-of-time validation across overall and segment-level metrics; the best model reduced interest-income estimation RMSE by 1.4% in Year 1 and 1.9% in Year 2 relative to the existing benchmark.
