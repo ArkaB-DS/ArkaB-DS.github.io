@@ -16,6 +16,3 @@ author_profile: true
 
 - **Calibrated Nearest-Neighbor Memorization: Exact Inference and Detectability in Generative Models**  
   *with Abhinav Chakraborty and Arnab Auddy* · In preparation
-
-- **Differentially Private Levenberg–Marquardt**  
-  Course project, STAT 8820: Statistical Inference for Dynamical Systems, The Ohio State University (2025)
