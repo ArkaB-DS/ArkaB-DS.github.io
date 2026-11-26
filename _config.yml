@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arkajyoti Bhattacharjee"
+title                    : "Arkajyoti (AJ) Bhattacharjee"
 title_separator          : "-"
 name                     : &name "Arkajyoti Bhattacharjee"
 description              : &description "Ph.D. candidate in Statistics at The Ohio State University working on differential privacy, nonparametric inference, and generative models."
