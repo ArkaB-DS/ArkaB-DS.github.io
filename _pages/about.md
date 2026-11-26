@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Arkajyoti (AJ) Bhattacharjee**, a Ph.D. candidate in Statistics with a graduate minor in Computer Science, and a Presidential Fellow at [The Ohio State University](https://stat.osu.edu/), advised by Prof. [Arnab Auddy](https://arnab-auddy.github.io/).
+I'm **Arkajyoti (AJ) Bhattacharjee**, a Ph.D. candidate in Statistics, with a graduate minor in Computer Science, and a Presidential Fellow at [The Ohio State University](https://stat.osu.edu/). I am advised by Prof. [Arnab Auddy](https://arnab-auddy.github.io/).
 
 **I am on the job market** for full-time positions starting after my Ph.D. (expected August 2027), as a research or applied scientist in machine learning and statistics, a data scientist or statistician, or a quantitative researcher in finance and risk modeling. My [CV](/files/CV.pdf) has the details, and I'd be glad to hear from you by [email](mailto:bhattacharjee.57@osu.edu).
 
@@ -29,5 +29,6 @@ Outside of research, I spend most of my free time weightlifting and doing calist
 - Differential privacy
 - Nonparametric and modal inference
 - Two-sample testing
+- Diffusion models
 - Memorization in generative models
 - Tree-based predictive modeling
